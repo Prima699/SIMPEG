@@ -39,3 +39,8 @@ php artisan serve
 ```
 8) Access the application. Example: `http://127.0.0.1:8000`
 9) Login: `dev@dev.com` Password: `root`
+10) May you got some errors my apologize
+11) Note : 
+- This app is still in development
+- API Feature will be added 
+- More validation & login
